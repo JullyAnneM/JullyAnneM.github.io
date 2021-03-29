@@ -25,7 +25,7 @@ Demonstrativartikel
 Pronominaladverbien
 
 
-## B1 Topics
+## B1.1 Topics
 
 Präteritum
 
@@ -44,3 +44,15 @@ Konditional
 Präpositionen
 
 Modalpartikel
+
+Infinitiv mit zu 
+
+Da, während, bevor
+
+Adjektiv Deklination mit komparativ und Superlativ
+
+Konjunktiv II Vergangenheit
+
+Plusquamperfekt und nachdem
+
+Genitiv und trotz
