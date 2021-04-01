@@ -6,6 +6,10 @@
 
 Refer to [this](https://de.pons.com/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dativ-_und_Akkusativobjekt.pdf) document for more verbs.
 
+- Akkusativ sentences are the most common.
+- Dativ sentences are used whenever you receive or give something to someone.
+- Nominativ sentences are used to describe a state of the subject or something about the subject.
+
 #### Common Nominativ Verbs:
 
 | Verb    | Example                                   |
@@ -47,10 +51,3 @@ Refer to [this](https://de.pons.com/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dat
 | Zustimmen   | Ich stimme Carlos zu.                                   |
 | Zuhören     | Hörst du mir bitte zu?                                  |
 | Schaden     | Zigaretten schaden mir.                                 |
-
-
-### Perfekt
-
-### Trennbare Verben
-
-### Zeitadverbien
