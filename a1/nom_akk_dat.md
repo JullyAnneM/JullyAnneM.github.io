@@ -1,8 +1,6 @@
-# German
+# A1 Topics
 
-## A1 Topics
-
-### Nominativ, Akkusativ und Dativ
+## Nominativ, Akkusativ und Dativ
 
 Refer to [this](https://de.pons.com/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dativ-_und_Akkusativobjekt.pdf) document for more verbs.
 
@@ -10,7 +8,7 @@ Refer to [this](https://de.pons.com/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dat
 - Dativ sentences are used whenever you receive or give something to someone.
 - Nominativ sentences are used to describe a state of the subject or something about the subject.
 
-#### Common Nominativ Verbs:
+### Common Nominativ Verbs:
 
 | Verb    | Example                                   |
 |---------|-------------------------------------------|
@@ -20,7 +18,7 @@ Refer to [this](https://de.pons.com/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dat
 | Bleiben | Er bleibt mein bester Freund.             |
 | Werden  | Das wird der schönste Tag in ihrem Leben. |
 
-#### Common Akkusativ Verbs:
+### Common Akkusativ Verbs:
 
 | Verb        | Example                                         |
 |-------------|-------------------------------------------------|
@@ -36,7 +34,7 @@ Refer to [this](https://de.pons.com/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dat
 | Beantworten | Bitte beantworten Sie die Einladung bis morgen. |
 | Erziehen    | Ich erziehe ein Kind.                           |
 
-#### Common Dativ Verbs:
+### Common Dativ Verbs:
 
 | Verb        | Example                                                 |
 |-------------|---------------------------------------------------------|

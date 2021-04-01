@@ -1,5 +1,6 @@
+# A1 Topics
 
-### Perfekt
+## Perfekt
 
 Refer to [this](https://www.nthuleen.com/teach/grammar/verbchart.html) document for more verbs.
 
@@ -8,9 +9,9 @@ Refer to [this](https://www.nthuleen.com/teach/grammar/verbchart.html) document 
 - Sein is normally used to represent movement or change of position.
 - Haben is used in all the other cases.
 
-#### Weak Verbs
+### Weak Verbs
 
-##### Haben
+#### Haben
 
 | Verb        | Partizip II  |
 |-------------|--------------|
@@ -29,7 +30,7 @@ Refer to [this](https://www.nthuleen.com/teach/grammar/verbchart.html) document 
 | Stellen     | Gestellt     |
 | Suchen      | Gesucht      |
 
-##### Sein
+#### Sein
 
 | Verb        | Partizip II  |
 |-------------|--------------|
@@ -39,9 +40,9 @@ Refer to [this](https://www.nthuleen.com/teach/grammar/verbchart.html) document 
 | Starten     | Gestartet    |
 | Tauchen     | Getaucht     |
 
-#### Strong Verbs
+### Strong Verbs
 
-##### Haben
+#### Haben
 
 | Verb        | Partizip II  |
 |-------------|--------------|
@@ -61,7 +62,7 @@ Refer to [this](https://www.nthuleen.com/teach/grammar/verbchart.html) document 
 | Steigen     | Gestiegen    |
 | Sitzen      | Gesessen     |
 
-##### Sein
+#### Sein
 
 | Verb        | Partizip II  |
 |-------------|--------------|
